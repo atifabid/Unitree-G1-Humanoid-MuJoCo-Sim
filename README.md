@@ -25,7 +25,7 @@ This repository provides scripts for procedural multi-agent scene synthesis, XML
 
 ## Author & Maintainer
 
-* **Author:** [Atif Abid / [GitHub Handle](https://github.com/atifabid)]
+* **Author:** [Atif Abid](https://github.com/atifabid)]
 * **Role:** Lead System Integration & RL Sim Development
 
 
