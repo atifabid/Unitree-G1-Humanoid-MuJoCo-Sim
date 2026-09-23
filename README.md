@@ -19,7 +19,7 @@ This repository provides scripts for procedural multi-agent scene synthesis, XML
 
 ## Demo
 
-![Unitree G1 Synchronized Thriller Demo](assets/g1_thriller_demo.gif)
+![Unitree G1 Synchronized Thriller Demo](src/humanoid-g1-thriller.gif)
 
 ---
 
